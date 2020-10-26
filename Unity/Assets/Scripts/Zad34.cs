@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class Zad34a : MonoBehaviour
+public class Zad34 : MonoBehaviour
 {
     public float speed = 2.0f;
     Rigidbody rb;
